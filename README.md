@@ -16,3 +16,5 @@ Commands (dans un véhicule en tant que conducteur)
 /veh crash: Enables/disables éviter les collisions.
 
 /veh dance: Enables/disables  Dansez pour votre véhicule actuel.
+
+**Crée par Dev-Adnani**
